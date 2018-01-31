@@ -15,7 +15,7 @@ function browserRedirect() {
         window.location.href="http://blog.csdn.net/zybieku";
 		
     } else {
-        window.location.href="http://blog.csdn.net/zybieku";
+        window.location.href="http://m.blog.csdn.net/blog/index?username=zybieku";
     }
 }
 browserRedirect();
